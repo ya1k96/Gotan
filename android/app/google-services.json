@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446718902174",
+    "firebase_url": "https://gotan-341db.firebaseio.com",
+    "project_id": "gotan-341db",
+    "storage_bucket": "gotan-341db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446718902174:android:4a1f9919bc10ac843fe08f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_page_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446718902174-e8t9qlfcuvolevqb0in681tfgu645m15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_login_page_ui",
+            "certificate_hash": "9ddb2df256a2a2f4f87beac26a0d444f092a9a85"
+          }
+        },
+        {
+          "client_id": "446718902174-7u4ji43v1mci0rvnpgpl9bc9530eefuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunvpE8YU7jTywaKBMozVquXUIWInTNNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446718902174-7u4ji43v1mci0rvnpgpl9bc9530eefuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
